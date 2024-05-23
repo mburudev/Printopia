@@ -70,7 +70,7 @@
                               </li>
 
                               <li class="nav-item">
-                                <a class="nav-link mx-3" aria-current="page" href="audit_index.php">Transactions</a>
+                                <a class="nav-link mx-3" aria-current="page" href="mpesa/access_token.php">Transactions</a>
                               </li>
                             </ul>
                         </span>
